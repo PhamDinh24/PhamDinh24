@@ -1,35 +1,39 @@
-<h1 align="center">Hi 👋, I'm Pham Dinh</h1>
+<h1 align="center">Hi 👋, I'm Pham Tri Dinh</h1>
 
-<p align="center">
-  <img src="https://github.com/PhamDinh24/PhamDinh24/blob/main/assets/profile-banner.png" alt="Banner" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/PhamDinh24">
-    <img src="https://img.shields.io/github/followers/PhamDinh24?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
 
 ---
 
-- 🔭 I’m currently working on: **Personal projects and learning new tech stacks**
-- 🌱 I’m currently learning: **JavaScript, Python, and Cloud Computing**
-- 👯 I’m looking to collaborate on: **Open source projects**
-- 💬 Ask me about: **Anything related to web development or programming in general**
-- 📫 How to reach me: **pham.dinh24@gmail.com**
-- ⚡ Fun fact: **I love exploring new technologies and sharing knowledge**
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on: **Personal projects and exploring new technologies**
+- 🌱 Always learning: **JavaScript, Python, Java, and Databases**
+- 🎓 Currently studying at: **Hanoi University of Industry**
+- 🤝 Open to collaborating on: **Open-source projects and exciting tech ideas**
+- 📫 Contact me: **dinhpham615@gmail.com**
+- ⚡ Fun fact: **I enjoy learning, building useful things, and sharing knowledge with the community**
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stack
 
+### Programming Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 
 ---
 
@@ -42,9 +46,9 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
-- Email: pham.dinh24@gmail.com
+- Email: dinhpham615@gmail.com
 - GitHub: [PhamDinh24](https://github.com/PhamDinh24)
 
 ---
