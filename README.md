@@ -1,57 +1,36 @@
-# 👋 Hi there, I'm Kien (PhamDinh24)!
-
-Welcome to my GitHub profile!  
-Here are some stats and highlights about my activity:
-
----
-
-![My GitHub Stats](image1)
-
-- ⭐ **Total Stars Earned:** 3  
-- ⏰ **Total Commits (2025):** 96  
-- 🔀 **Total PRs:** 1  
-- 📝 **Total Issues:** 0  
-- 🚀 **Contributed to (last year):** 1 repo
-
----
+# 👋 Hi, I'm Dinh (PhamDinh24)!
 
 ## 🚀 About Me
-
-- 🌱 Hiện tại mình đang học hỏi và xây dựng các dự án nhỏ bằng code.
-- 💻 Yêu thích lập trình, thích khám phá công nghệ mới.
-- 📫 Liên hệ: [Thêm email hoặc link LinkedIn/website của bạn ở đây]
-
-> 💤 Khi nào rảnh nữa mình sẽ commit tiếp nhé!
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** [Thêm các ngôn ngữ chính: Python, JavaScript, ...]
-- **Tools:** [Thêm công cụ bạn sử dụng: VSCode, Git, ...]
-- **Frameworks:** [Thêm framework: React, Django, ...]
-- **Others:** [Thêm công nghệ/phần mềm khác nếu có]
+- 💼 **Pham Dinh** | Backend Developer  
+- 🎓 **Hanoi University of Industry** | Major: Information System  
+- 🎯 **Goal:** Trở thành một kỹ sư phần mềm xuất sắc, tạo ra các sản phẩm công nghệ có tác động tích cực  
+- 📫 **Contact:**  
+  - [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-link) | [Facebook](https://facebook.com/your-profile) | [YouTube](https://youtube.com/@your-channel)
 
 ---
 
-## 🏆 My GitHub Rank
+## 🛠️ Skills
 
-- Hiện tại mình đang ở hạng **C** trên GitHub (xem ảnh trên).
-- Đường code còn dài, mình sẽ cố gắng nâng thứ hạng bằng những dự án mới và đóng góp nhiều hơn cho cộng đồng!
+**Programming Languages & Databases:**  
+Java | C# | C++ | MySQL | PostgreSQL | Microsoft SQL Server
 
----
+**Frameworks & Libraries:**  
+Spring Boot | Hibernate | Maven | Bootstrap
 
-## 📈 Contribution Graph
-
-<!-- Bạn có thể dùng các dịch vụ như github-readme-stats hoặc github-profile-trophy để hiển thị thêm các biểu đồ, ví dụ: -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=PhamDinh24&theme=dark) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDinh24&layout=compact) -->
+**Tools & Platforms:**  
+Git | GitHub | Docker | IntelliJ IDEA | Postman | VS Code | DBeaver
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Stats
 
-- [Thêm link Facebook, LinkedIn, hoặc các mạng xã hội khác tại đây]
+![PhamDinh24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhamDinh24&show_icons=true&theme=radical)
+
+---
+
+## 💬 Favorite Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
