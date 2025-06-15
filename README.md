@@ -8,8 +8,20 @@
 - 🌱 Always learning: **JavaScript, Python, Java, and Databases**
 - 🎓 Currently studying at: **Hanoi University of Industry**
 - 🤝 Open to collaborating on: **Open-source projects and exciting tech ideas**
-- 📫 Contact me: **dinhpham615@gmail.com**
 - ⚡ Fun fact: **I enjoy learning, building useful things, and sharing knowledge with the community**
+
+---
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:dinhpham615@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+</p>
 
 ---
 
@@ -45,12 +57,7 @@
 
 ---
 
-## 📫 Connect with Me
 
-- Email: dinhpham615@gmail.com
-- GitHub: [PhamDinh24](https://github.com/PhamDinh24)
-
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PhamDinh24.PhamDinh24" alt="Visitor Badge"/>
