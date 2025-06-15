@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Tri Dinh</h1>
 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -41,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PhamDinh24&show_icons=true&theme=radical" alt="PhamDinh24's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDinh24&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDinh24&layout=compact&theme=radical&langs_count=3" alt="Top Languages"/>
 </p>
 
 ---
