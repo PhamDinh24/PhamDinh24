@@ -1,33 +1,35 @@
-<h1 align="center">Hi 👋, I'm Pham Tri Dinh</h1>
+# Hi 👋, I'm Pham Tri Dinh
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on: **Personal projects and exploring new technologies**
-- 🌱 Always learning: **JavaScript, Python, Java, and Databases**
-- 🎓 Currently studying at: **Hanoi University of Industry**
-- 🤝 Open to collaborating on: **Open-source projects and exciting tech ideas**
-- ⚡ Fun fact: **I enjoy learning, building useful things, and sharing knowledge with the community**
+- 🔭 Currently working on: personal projects and exploring new technologies  
+- 🌱 Always learning: JavaScript, Python, Java, and databases  
+- 🎓 Studying at: Hanoi University of Industry  
+- 🤝 Open to: collaborating on open-source projects and interesting tech ideas  
+- ⚡ Fun fact: I enjoy learning, building useful tools, and sharing knowledge with the community
 
 ---
+
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:dinhpham615@gmail.com" target="_blank">
+  <a href="mailto:dinhpham615@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <!-- Replace `your-linkedin` below with your LinkedIn username -->
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
 </p>
+
 
 ---
 
 ## 🚀 Tech Stack
 
-### Programming Languages & Frameworks
+### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -48,17 +50,29 @@
 
 ---
 
+## 🔭 Featured Projects
+
+(Replace the items below with the real project links and short descriptions)
+
+- [project-a](https://github.com/PhamDinh24/project-a) — Short description: main tech and purpose.
+- [project-b](https://github.com/PhamDinh24/project-b) — Short description: e.g., REST API with Node.js and PostgreSQL.
+- [project-c](https://github.com/PhamDinh24/project-c) — Short description: e.g., React frontend deployed to Vercel.
+
+Tip: pick 2–4 highlight repositories; for each, add one-line summary, main technologies, and a link to live demo (if any).
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhamDinh24&show_icons=true&theme=radical" alt="PhamDinh24's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDinh24&layout=compact&theme=radical&langs_count=3" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PhamDinh24&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDinh24&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
 </p>
 
 ---
 
-
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PhamDinh24.PhamDinh24" alt="Visitor Badge"/>
 </p>
+
+---
