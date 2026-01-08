@@ -24,7 +24,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🚀 Tech Stack
@@ -52,11 +51,10 @@
 
 ## 🔭 Featured Projects
 
-(Replace the items below with the real project links and short descriptions)
+- [J-Bookhub](https://github.com/PhamDinh24/J-Bookhub) — An online bookstore built with Java Spring Boot (backend) and React.js (frontend). Features product catalog, user accounts, shopping cart, and order management.
 
 - [project-a](https://github.com/PhamDinh24/project-a) — Short description: main tech and purpose.
 - [project-b](https://github.com/PhamDinh24/project-b) — Short description: e.g., REST API with Node.js and PostgreSQL.
-- [project-c](https://github.com/PhamDinh24/project-c) — Short description: e.g., React frontend deployed to Vercel.
 
 Tip: pick 2–4 highlight repositories; for each, add one-line summary, main technologies, and a link to live demo (if any).
 
