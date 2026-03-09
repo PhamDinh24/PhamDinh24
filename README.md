@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-- 🎓 **Java Backend Developer** | Information Systems
-- 🎯 **Goal:** Xây dựng các hệ thống backend có hiệu năng cao và khả năng mở rộng tốt.
-- 💡 Thành thạo hệ sinh thái **Spring Boot**, xử lý logic nghiệp vụ phức tạp và tối ưu hóa truy vấn Database.
+- 🎓 **Java Backend Developer** | Information Systems background.
+- 🎯 **Goal:** Building robust, high-performance, and scalable backend architectures.
+- 💡 Proficient in the **Spring Ecosystem**, complex business logic, and database query optimization.
 - 📍 Location: **Vietnam** 🇻🇳
 
 ---
@@ -54,9 +54,9 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| 📚 **[J-Bookhub](https://github.com/PhamDinh24/J-Bookhub)** | Spring Boot, React, MySQL | Nền tảng Fullstack quản lý và chia sẻ sách, tích hợp RESTful API. |
-| 🎬 **[Pengu Cinema](https://github.com/kientran-dev/Pengu)** | Spring Boot, Security, MySQL | Hệ thống đặt vé xem phim với phân quyền bảo mật và quản lý suất chiếu. |
-| 🧸 **[Toyshop Servlet](https://github.com/kientran-dev/ToyshopServlet)** | Servlet/JSP, JDBC, SQL Server | Web bán đồ chơi xây dựng theo mô hình MVC thuần túy để tối ưu xử lý logic. |
+| 📚 **[J-Bookhub](https://github.com/PhamDinh24/J-Bookhub)** | Spring Boot, React, MySQL | Fullstack platform for book management and sharing with RESTful APIs. |
+| 🎬 **[Pengu Cinema](https://github.com/kientran-dev/Pengu)** | Spring Boot, Security, MySQL | Movie booking system featuring role-based access and showtime management. |
+| 🧸 **[Toyshop Servlet](https://github.com/kientran-dev/ToyshopServlet)** | Servlet/JSP, JDBC, SQL Server | Toy store web application built with MVC architecture to master core logic. |
 
 ---
 
