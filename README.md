@@ -18,16 +18,17 @@
 
 ### 💻 Programming Languages & Databases
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-239120?style=flat-square&logo=css3&logoColor=white)
 
 ### 📦 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🧰 Tools & Platforms
@@ -36,6 +37,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=swagger&logoColor=white)
 
 ---
 
@@ -56,14 +58,14 @@
 
 | Project | Description | Tech Stack |
 |-------|------------|-----------|
-| 🎬 **Pengu Cinema** | Online Movie Ticket Booking System | Java, Spring Boot, MySQL |
-| 📚 **Library Manager** | Book borrowing & returning system | Java, Hibernate, Thymeleaf |
+| 🎬 **Pengu Cinema** | Online Movie Ticket Booking System | Java, Spring Boot, MySQL, REST API |
+| 📚 **J-Bookhub** | Online Book Management & Sharing Platform | React.js, Java, Spring Boot, MySQL, REST API |
 
 ---
 
 ## 💬 Favorite Quote
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ---
 
