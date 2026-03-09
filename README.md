@@ -1,61 +1,73 @@
 # 👋 Hi, I'm Pham Dinh!
 
-## 🚀 About Me
-
-- 🎓 **Java Backend Developer** | Information Systems
-- 🎯 **Goal:** Master of Backend Architecture & Scalable Systems.
-- 💡 Experience in building RESTful APIs and optimizing Database performance.
-- 📍 Based in **Vietnam** 🇻🇳
-
-### 📫 Connect with me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamdinh24@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phamdinh24)
+<p align="left">
+<a href="mailto:phamdinh24@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/phamdinh24"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://facebook.com"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-### 💻 Backend & Core
-- **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **Frameworks:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white) ![Servlet](https://img.shields.io/badge/Servlet/JSP-007396?style=flat-square&logo=java&logoColor=white)
-- **Data Access:** ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+- 🎓 **Java Backend Developer** | Information Systems
+- 🎯 **Goal:** Xây dựng các hệ thống backend có hiệu năng cao và khả năng mở rộng tốt.
+- 💡 Thành thạo hệ sinh thái **Spring Boot**, xử lý logic nghiệp vụ phức tạp và tối ưu hóa truy vấn Database.
+- 📍 Location: **Vietnam** 🇻🇳
 
-### 🗄️ Database Management
-- **Systems:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-- **Integration:** ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
+---
 
-### 🧰 Development Tools & DevOps
-- **Build Tools:** ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-- **Testing & API:** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=api&logoColor=white)
-- **Containers:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-- **IDE:** ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 🛠️ Skills
 
-### 🌐 Frontend & Templates
-- **Frameworks:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-- **UI Kits:** ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### Programming Languages & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/HIBERNATE-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SERVLET/JSP-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 
-| Project | Tech Stack | Key Highlight |
+| Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| 📚 **[J-Bookhub](https://github.com/PhamDinh24/J-Bookhub)** | Spring Boot, React, MySQL | Xử lý Fullstack từ UI đến Database, tích hợp RESTful API. |
-| 🎬 **[Pengu Cinema](https://github.com/kientran-dev/Pengu)** | Spring Boot, Security, Thymeleaf | Hệ thống booking vé phim với cơ chế phân quyền bảo mật cao. |
-| 🧸 **[Toyshop Servlet](https://github.com/kientran-dev/ToyshopServlet)** | Servlet/JSP, JDBC, SQL Server | Xây dựng theo mô hình MVC thuần giúp tối ưu logic cốt lõi. |
+| 📚 **[J-Bookhub](https://github.com/PhamDinh24/J-Bookhub)** | Spring Boot, React, MySQL | Nền tảng Fullstack quản lý và chia sẻ sách, tích hợp RESTful API. |
+| 🎬 **[Pengu Cinema](https://github.com/kientran-dev/Pengu)** | Spring Boot, Security, MySQL | Hệ thống đặt vé xem phim với phân quyền bảo mật và quản lý suất chiếu. |
+| 🧸 **[Toyshop Servlet](https://github.com/kientran-dev/ToyshopServlet)** | Servlet/JSP, JDBC, SQL Server | Web bán đồ chơi xây dựng theo mô hình MVC thuần túy để tối ưu xử lý logic. |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhamDinh24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDinh24&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Languages" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhamDinh24&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="PhamDinh24's GitHub stats" height="180" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhamDinh24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDinh24&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="180" />
 </p>
 
 ---
